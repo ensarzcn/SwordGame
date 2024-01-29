@@ -1,0 +1,14 @@
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\bin\Debug\net8.0\Ensarzcn.exe
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\bin\Debug\net8.0\Ensarzcn.deps.json
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\bin\Debug\net8.0\Ensarzcn.runtimeconfig.json
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\bin\Debug\net8.0\Ensarzcn.dll
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\bin\Debug\net8.0\Ensarzcn.pdb
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.AssemblyInfoInputs.cache
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.AssemblyInfo.cs
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.csproj.CoreCompileInputs.cache
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.dll
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\refint\Ensarzcn.dll
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.pdb
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\Ensarzcn.genruntimeconfig.cache
+C:\Users\tutku\OneDrive\Masaüstü\repos\Ensarzcn\Ensarzcn\obj\Debug\net8.0\ref\Ensarzcn.dll
